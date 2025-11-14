@@ -21,10 +21,11 @@ The system supports **AI-based gesture recognition** and uses **multithreading**
 ---
 
 ## Tech Stack
-- **Hardware:** Raspberry Pi, Raspberry Pi Camera Module V1  
+- **Hardwares:** Raspberry Pi, Raspberry Pi Camera Module V1  
 - **Language:** Python  
-- **Libraries:** OpenCV, NumPy, Requests, qrcode, Pillow  
+- **Libraries:** OpenCV, NumPy, Requests, qrcode, Pillow, mediapie, customtkinter
 - **Cloud:** Google Drive API
+- **AI Models**: MediaPipe Hands, ResNet-10 SSD Face Detector
 - **Tools:** Git, GitHub Actions, virtualenv, Visual Studio Code.  
 
 ## Installation / Setup
