@@ -34,4 +34,5 @@ The system supports **AI-based gesture recognition** and uses **multithreading**
    git clone -b Nhan/merge_gif_feature https://github.com/your_username/Photobooth.git
 3. Open the project using Visual Studio Code (either on Raspbian OS or Windows).
 4. Navigate to the AppInterface directory and run:
+   ```bash
    python Main_Window.py
