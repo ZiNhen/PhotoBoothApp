@@ -16,7 +16,8 @@ The system supports **AI-based gesture recognition** and uses **multithreading**
 - Real-time gallery with auto-generated QR codes  
 - Multithreaded camera, processing, and networking workflow  
 - Customizable GUI for user interactions  
-- Cloud-based image storage & instant retrieval  
+- Cloud-based image storage & instant retrieval
+
 
 ---
 
